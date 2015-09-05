@@ -1,4 +1,4 @@
-var sinaUrlPre = "http://stock2.finance.sina.com.cn/futures/api/json.php/IndexService.getInnerFuturesDailyKLine?symbol=";//访问sina url，获得日K数据
+111var sinaUrlPre = "http://stock2.finance.sina.com.cn/futures/api/json.php/IndexService.getInnerFuturesDailyKLine?symbol=";//访问sina url，获得日K数据
 var sinaUrlPreIF = "http://stock2.finance.sina.com.cn/futures/api/json.php/CffexFuturesService.getCffexFuturesDailyKLine?symbol=";
 var maxLever = 5;//最大杠杆
 var totalCanUsePerProductWithLever =0;//带杠杆，每个品种可用资金
